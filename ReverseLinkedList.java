@@ -10,7 +10,7 @@ class SinglyLinkedListNode {
     }
 }
 
-public class Main {
+public class ReverseLinkedList {
     static void reverse(SinglyLinkedListNode head) {
         if (head == null) {
             return; 
